@@ -10,16 +10,21 @@ Session Management: User sessions are managed using Express-session, ensuring a 
 Role-based Access Control: Different levels of access are provided to users (e.g., admin and regular users) for enhanced security and functionality.
 
 3. Blog Post Management
+   
 Create Post: Authenticated users can create new blog posts, adding titles, content, and images.
 
 
-5. Comment Functionality
+4. Comment Functionality
+   
 Add Comment: Authenticated users can comment on blog posts to engage in discussions or provide feedback.
 
-6. User Profile Management
+5. User Profile Management
+   
 View Profile: Users can view their profile details, including the list of their blog posts and comments.
 
 
-8. Responsive Design
+6. Responsive Design
+   
 EJS Templates: The website uses EJS (Embedded JavaScript) for dynamic HTML rendering, ensuring a responsive and user-friendly interface.
+
 Bootstrap: Integrated with Bootstrap for a modern and responsive design.
